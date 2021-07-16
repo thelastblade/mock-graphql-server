@@ -1,5 +1,5 @@
-# Mock Magellan GraphQL application
-An application that mocks the data query from Magellan server. Currently, only the AggregatedPositions query is implemented. 
+# Mock GraphQL application
+An application that mocks the data query from a GraphQL server. Currently, only the AggregatedPositions query is implemented. 
 
 ## Run locally
 1. [Clone the repo](#1-clone-the-repo)
